@@ -67,6 +67,7 @@ int main(){
     }
 
     label:
+    cout<<x;
 
 
     cout<<result;  
